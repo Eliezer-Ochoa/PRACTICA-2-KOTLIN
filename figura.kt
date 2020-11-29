@@ -28,13 +28,15 @@ println("Soy un triangulo")
 } 
     
 } 
+
 class Rectangulo:Figura() 
 {
 override fun Dibujar() 
 {
 println("Soy un rectangulo") 
 } 
-    
+
+
 } 
 fun main()
 {
