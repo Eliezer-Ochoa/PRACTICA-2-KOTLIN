@@ -1,3 +1,4 @@
+
 enum class Direccion {
     NORTH, SOUTH, WEST, EAST
    }
@@ -15,3 +16,5 @@ enum class Direccion {
    var suma = Calculadora.sumarDosNumeros(5,6)
    println("soy el usuario: ${usuario.usuario} y vivo en el ${direccion} y la suma es $suma")
    }
+
+   
