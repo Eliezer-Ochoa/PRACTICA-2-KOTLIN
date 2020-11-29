@@ -1,4 +1,4 @@
-/* 
+ 
 class Persona{
     var nombre:String = ""
     var apellido:String = ""
@@ -20,7 +20,7 @@ class Persona{
     println(persona.nombre)
     println(nueva.nombre)
    }
-*/
+
 
    fun main(){
     class Persona(var nombre:String, var apellido:String)
