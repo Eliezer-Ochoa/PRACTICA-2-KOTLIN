@@ -14,4 +14,5 @@ fun main(){
     {
         println("nombre : ${lista_personas[e].nombre} ${lista_personas[e].apellido} ")
     }
+
 }
